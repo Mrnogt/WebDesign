@@ -1,0 +1,8 @@
+c:\users\mogaze\documents\visual studio 2012\Projects\WebDesignNew\WebDesignNew\bin\WebDesignNew.dll
+c:\users\mogaze\documents\visual studio 2012\Projects\WebDesignNew\WebDesignNew\bin\WebDesignNew.pdb
+c:\users\mogaze\documents\visual studio 2012\Projects\WebDesignNew\WebDesignNew\bin\WebDesignNew.xml
+c:\users\mogaze\documents\visual studio 2012\Projects\WebDesignNew\WebDesignNew\obj\Debug\WebDesignNew.Resources.resources
+c:\users\mogaze\documents\visual studio 2012\Projects\WebDesignNew\WebDesignNew\obj\Debug\WebDesignNew.vbproj.GenerateResource.Cache
+c:\users\mogaze\documents\visual studio 2012\Projects\WebDesignNew\WebDesignNew\obj\Debug\WebDesignNew.dll
+c:\users\mogaze\documents\visual studio 2012\Projects\WebDesignNew\WebDesignNew\obj\Debug\WebDesignNew.xml
+c:\users\mogaze\documents\visual studio 2012\Projects\WebDesignNew\WebDesignNew\obj\Debug\WebDesignNew.pdb
